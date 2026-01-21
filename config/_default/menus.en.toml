@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "posts"
+  name = "Docs"
   pageRef = "posts"
   weight = 10
+
+[[main]]
+  name = "Shortcodes"
+  pageRef = "docs/shortcodes"
+  weight = 15
 
 [[main]]
   name = "Examples"

@@ -1,21 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Blowfish</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 21 Jan 2026 17:44:21 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 21 Jan 2026 18:12:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>33</title>
-      <link>http://localhost:1313/posts/33/</link>
-      <pubDate>Wed, 21 Jan 2026 17:44:21 +0800</pubDate>
+      <title>利用Github和HUGO创建自己的Blog网站</title>
+      <link>http://localhost:1313/posts/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Wed, 21 Jan 2026 18:12:31 +0800</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</guid>
+      <description>&lt;p&gt;参考：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiroyuki.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://shiroyuki.dev/&lt;/a&gt;&#xA;&lt;a href=&#34;https://blowfish.page/zh-cn/users/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blowfish.page/zh-cn/users/&lt;/a&gt;&#xA;&lt;a href=&#34;https://themes.gohugo.io/tags/dark-mode/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://themes.gohugo.io/tags/dark-mode/&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/Byron4j/CookBook/tree/master/Git/github-pages&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/Byron4j/CookBook/tree/master/Git/github-pages&lt;/a&gt;&#xA;&lt;a href=&#34;https://zhiwango.com/2022/03/15/blog-memo/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://zhiwango.com/2022/03/15/blog-memo/&lt;/a&gt;&lt;/p&gt;</description>
       
-      <guid>http://localhost:1313/posts/33/</guid>
+    </item>
+    
+    <item>
+      <title>Https协议和SSH协议的区别是什么</title>
+      <link>http://localhost:1313/posts/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</link>
+      <pubDate>Wed, 21 Jan 2026 18:10:24 +0800</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</guid>
+      <description>&lt;p&gt;JAVA8 新特性2019-05-27【更新到P3】 视频连接&#xA;Lambda 表达式&#xA;函数式接口&#xA;方法引用于构造器引用&#xA;Stream API&#xA;接口中的默认方法和静态方法&#xA;新时间日期API&#xA;优点&#xA;速度更快&#xA;代码更少&#xA;便于并行等&#xA;一、HashMap上的改变变（针对底层的数据结构）&#xA;如果不用hash算法 效率低&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</guid>
+      <description>&lt;p&gt;配置 SSH 密钥是一个“一劳永逸”的操作。配置完成后，你与 GitHub 之间的通信将通过 22 端口建立加密隧道，不再需要输入账号密码或 Token。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</guid>
+      <description>&lt;p&gt;五月四日，算是一个特殊的日子。好像已经不是青年的我还憧憬着青春&#xA;在一个容易迷失的年纪&#xA;我想重新找回&#xA;不甘于平淡的干劲&#xA;希望每天过得充实&#xA;找到自己想要的生活和目标&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</guid>
+      <description>&lt;p&gt;写东西无从下手，是否是因为读书太少，没有输入怎么输出呢&#xA;输入和输出是成正比的&#xA;多练习写剧评、影评提高自己的写作和书面语言表达能力&#xA;想要表达一见事情时总是很难直观的表达自己的意思&#xA;语言组织不起来&#xA;东拼砌凑&#xA;不成系统，导致对方的理解有出入&#xA;点对接收都有问题&#xA;如果时点对群接收…&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</guid>
+      <description>&lt;p&gt;买一辆自行车&#xA;买一架电钢学几首曲子&#xA;积累技术，不断完善简历，进入一家氛围好的公司，有时间写写博客&#xA;七月一日的日语等级考试，从五月四日起制定学习计划，劳逸结合，多练习口语，多看电视剧、动漫&#xA;周末安排时间练习滑板&#xA;确定自考是否继续法律【2019年回顾，法律课程已经无法继续报考】&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
+      <description>&lt;p&gt;本地clone操作Github超时怎么办&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;windows clone github项目 返回 Failed to connect to github.com port 443 after 21065 ms: Timed out。 给我提供排查思路&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;检查网络通信是否征程 (基础诊断)&#xA;首先确认是 Git 程序的问题，还是你的网络根本无法触达 GitHub。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;打开 PowerShell 或 CMD，输入： ping github.com&#xA;结果分析：&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</guid>
+      <description>&lt;p&gt;现在的我有些疲惫&#xA;凝视&#xA;凋零和枯萎&#xA;沉思后&#xA;忍不住的悔恨&lt;/p&gt;&#xA;&lt;p&gt;萦绕在脑海里的&#xA;不仅仅是憧憬向往&#xA;更多的&#xA;还有憧憬后的失望&#xA;探索后的迷茫&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</guid>
+      <description>&lt;p&gt;多看书多看展（长期）&#xA;舞蹈（恰恰，尊巴，伦巴）气质 乐器（长期）&lt;/p&gt;&#xA;&lt;p&gt;妆容 衣服&lt;/p&gt;</description>
       
     </item>
     

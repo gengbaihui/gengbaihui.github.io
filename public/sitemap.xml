@@ -3,15 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/33/</loc>
-    <lastmod>2026-01-21T17:44:21+08:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-21T17:44:21+08:00</lastmod>
+    <lastmod>2026-01-21T18:12:31+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-21T17:44:21+08:00</lastmod>
+    <lastmod>2026-01-21T18:12:31+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2026-01-21T18:12:31+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</loc>
+    <lastmod>2026-01-21T18:10:24+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
