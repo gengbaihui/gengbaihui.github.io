@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 title = "Tomato Blog"
-defaultBackgroundImage = "/img/richang.jpg"
+defaultBackgroundImage = "../img/richang.jpg"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
