@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
+  name = "技术"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "碎碎念"
   pageRef = "docs/shortcodes"
   weight = 15
 
