@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://gengbaihui.github.io/"
+baseURL = " https://tomato-live.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
