@@ -1,4 +1,4 @@
-baseURL = 'https://gengbaihui.github.io/'
+baseURL = 'https://tomato-live.github.io/'
 languageCode = 'en-us'
 title = 'Tomato Blog'
 theme = 'blowfish'
