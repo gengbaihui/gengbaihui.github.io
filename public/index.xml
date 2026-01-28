@@ -6,27 +6,27 @@
     <description>Recent content on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
+    <managingEditor>nuno@n9o.xyz (Tomato live)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Tomato live)</webMaster>
+    <copyright>© 2026 Tomato live</copyright>
     <lastBuildDate>Wed, 21 Jan 2026 18:12:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>利用Github和HUGO创建自己的Blog网站</title>
-      <link>http://localhost:1313/posts/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</link>
+      <link>http://localhost:1313/technology/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</link>
       <pubDate>Wed, 21 Jan 2026 18:12:31 +0800</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</guid>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E5%88%A9%E7%94%A8github%E5%92%8Chugo%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84blog%E7%BD%91%E7%AB%99/</guid>
       <description>&lt;p&gt;参考：&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://shiroyuki.dev/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://shiroyuki.dev/&lt;/a&gt;&#xA;&lt;a href=&#34;https://blowfish.page/zh-cn/users/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blowfish.page/zh-cn/users/&lt;/a&gt;&#xA;&lt;a href=&#34;https://themes.gohugo.io/tags/dark-mode/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://themes.gohugo.io/tags/dark-mode/&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/Byron4j/CookBook/tree/master/Git/github-pages&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/Byron4j/CookBook/tree/master/Git/github-pages&lt;/a&gt;&#xA;&lt;a href=&#34;https://zhiwango.com/2022/03/15/blog-memo/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://zhiwango.com/2022/03/15/blog-memo/&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Https协议和SSH协议的区别是什么</title>
-      <link>http://localhost:1313/posts/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</link>
-      <pubDate>Wed, 21 Jan 2026 18:10:24 +0800</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
+      <link>http://localhost:1313/technology/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</link>
+      <pubDate>Tue, 21 Jan 2025 18:10:24 +0800</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/https%E5%8D%8F%E8%AE%AE%E5%92%8Cssh%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
       <description></description>
       
     </item>
@@ -35,7 +35,7 @@
       <title></title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (Tomato live)</author>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;&amp;hellip;.&lt;/p&gt;</description>
       
@@ -43,81 +43,341 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</link>
+      <link>http://localhost:1313/diary/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</guid>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/diary/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;五四不再青年&#xD;&#xA;    &lt;div id=&#34;五四不再青年&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%94%e5%9b%9b%e4%b8%8d%e5%86%8d%e9%9d%92%e5%b9%b4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;五月四日，算是一个特殊的日子&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diary/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/diary/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;今日感悟2018-02-15&#xD;&#xA;    &lt;div id=&#34;今日感悟2018-02-15&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bb%8a%e6%97%a5%e6%84%9f%e6%82%9f2018-02-15&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;写东西无从下手，是否是因为读书太少，没有输入怎么输出呢&#xA;输入和输出是成正比的&#xA;多练习写剧评、影评提高自己的写作和书面语言表达能力&#xA;想要表达一见事情时总是很难直观的表达自己的意思&#xA;语言组织不起来&#xA;东拼砌凑&#xA;不成系统，导致对方的理解有出入&#xA;点对接收都有问题&#xA;如果时点对群接收…&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diary/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/diary/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;愿望清单&#xD;&#xA;    &lt;div id=&#34;愿望清单&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e6%84%bf%e6%9c%9b%e6%b8%85%e5%8d%95&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;买一辆自行车&#xA;买一架电钢学几首曲子&#xA;积累技术，不断完善简历，进入一家氛围好的公司，有时间写写博客&#xA;七月一日的日语等级考试，从五月四日起制定学习计划，劳逸结合，多练习口语，多看电视剧、动漫&#xA;周末安排时间练习滑板&#xA;确定自考是否继续法律【2019年回顾，法律课程已经无法继续报考】&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diary/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/diary/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;现在的我2017-02-15&#xD;&#xA;    &lt;div id=&#34;现在的我2017-02-15&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e7%8e%b0%e5%9c%a8%e7%9a%84%e6%88%912017-02-15&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;现在的我有些疲惫&#xA;凝视&#xA;凋零和枯萎&#xA;沉思后&#xA;忍不住的悔恨&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/diary/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/diary/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;随手记 2-18-09-15&#xD;&#xA;    &lt;div id=&#34;随手记-2-18-09-15&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e6%89%8b%e8%ae%b0-2-18-09-15&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;多看书多看展（长期）&#xA;舞蹈（恰恰，尊巴，伦巴）气质 乐器（长期）&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/clickhouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/clickhouse/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;什么是ClickHouse&#xD;&#xA;    &lt;div id=&#34;什么是clickhouse&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bb%80%e4%b9%88%e6%98%afclickhouse&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;一、简介&#xD;&#xA;    &lt;div id=&#34;一简介&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b8%80%e7%ae%80%e4%bb%8b&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    是一个开源的列式数据库管理系统（DBMS），专门为在线分析处理（OLAP） 设计，&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    能够以极快的速度进行实时数据分析查询。&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/docker%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/docker%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Docker的基础知识&#xD;&#xA;    &lt;div id=&#34;docker的基础知识&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#docker%e7%9a%84%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    概述：Docker 是一个容器化平台，允许开发者将应用程序及其依赖项打包到&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    一个标准化的单元（容器）中，确保应用在不同环境中快速、可靠地运行。&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;一.基础概念&#xD;&#xA;    &lt;div id=&#34;一基础概念&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%b8%80%e5%9f%ba%e7%a1%80%e6%a6%82%e5%bf%b5&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&#xD;&#xA;&lt;h4 class=&#34;relative group&#34;&gt;容器&#xD;&#xA;    &lt;div id=&#34;容器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%ae%b9%e5%99%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;p&gt;轻量级、独立的软件包，包含运行应用所需的代码、运行时、系统工具和库。&#xA;与传统虚拟机的区别：容器共享主机操作系统内核，无需虚拟化整个操作系统，因此更轻量、启动更快。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/dubbo%E5%92%8Copenfeign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/dubbo%E5%92%8Copenfeign/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/es%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/es%E7%9A%84%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/java8%E6%96%B0%E7%89%B9%E6%80%A7%E7%AC%94%E8%AE%B02019-5-27/</guid>
       <description>&lt;p&gt;JAVA8 新特性2019-05-27【更新到P3】 视频连接&#xA;Lambda 表达式&#xA;函数式接口&#xA;方法引用于构造器引用&#xA;Stream API&#xA;接口中的默认方法和静态方法&#xA;新时间日期API&#xA;优点&#xA;速度更快&#xA;代码更少&#xA;便于并行等&#xA;一、HashMap上的改变变（针对底层的数据结构）&#xA;如果不用hash算法 效率低&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</link>
+      <link>http://localhost:1313/technology/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</guid>
-      <description>&lt;p&gt;配置 SSH 密钥是一个“一劳永逸”的操作。配置完成后，你与 GitHub 之间的通信将通过 22 端口建立加密隧道，不再需要输入账号密码或 Token。&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</link>
+      <link>http://localhost:1313/technology/java%E9%AB%98%E5%B9%B6%E5%8F%91/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E4%BA%94%E5%9B%9B%E4%B8%8D%E5%86%8D%E9%9D%92%E5%B9%B42018-2-15/</guid>
-      <description>&lt;p&gt;五月四日，算是一个特殊的日子。好像已经不是青年的我还憧憬着青春&#xA;在一个容易迷失的年纪&#xA;我想重新找回&#xA;不甘于平淡的干劲&#xA;希望每天过得充实&#xA;找到自己想要的生活和目标&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/java%E9%AB%98%E5%B9%B6%E5%8F%91/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</link>
+      <link>http://localhost:1313/technology/jvm%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E4%BB%8A%E6%97%A5%E6%84%9F%E6%82%9F2018-02-15/</guid>
-      <description>&lt;p&gt;写东西无从下手，是否是因为读书太少，没有输入怎么输出呢&#xA;输入和输出是成正比的&#xA;多练习写剧评、影评提高自己的写作和书面语言表达能力&#xA;想要表达一见事情时总是很难直观的表达自己的意思&#xA;语言组织不起来&#xA;东拼砌凑&#xA;不成系统，导致对方的理解有出入&#xA;点对接收都有问题&#xA;如果时点对群接收…&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/jvm%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;JVM 相关&#xD;&#xA;    &lt;div id=&#34;jvm-相关&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#jvm-%e7%9b%b8%e5%85%b3&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JVM基础知识&lt;/li&gt;&#xA;&lt;li&gt;JVM和实际应用结合&lt;/li&gt;&#xA;&lt;li&gt;GC 垃圾回收等&lt;/li&gt;&#xA;&lt;li&gt;调优&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</link>
+      <link>http://localhost:1313/technology/jwt-tokens%E7%9A%84%E5%BA%94%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E6%84%BF%E6%9C%9B%E6%B8%85%E5%8D%95--2018/</guid>
-      <description>&lt;p&gt;买一辆自行车&#xA;买一架电钢学几首曲子&#xA;积累技术，不断完善简历，进入一家氛围好的公司，有时间写写博客&#xA;七月一日的日语等级考试，从五月四日起制定学习计划，劳逸结合，多练习口语，多看电视剧、动漫&#xA;周末安排时间练习滑板&#xA;确定自考是否继续法律【2019年回顾，法律课程已经无法继续报考】&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/jwt-tokens%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;JWT Tokens的应用&#xD;&#xA;    &lt;div id=&#34;jwt-tokens的应用&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#jwt-tokens%e7%9a%84%e5%ba%94%e7%94%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;是什么&lt;/li&gt;&#xA;&lt;li&gt;为什么要用这个&lt;/li&gt;&#xA;&lt;li&gt;什么情景下用&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
+      <link>http://localhost:1313/technology/k8s%E5%BA%94%E7%94%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/k8s%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/kubernetes/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;kubernetes&#xD;&#xA;    &lt;div id=&#34;kubernetes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#kubernetes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;什么是kubernetes&lt;/li&gt;&#xA;&lt;li&gt;应用的场景是什么&lt;/li&gt;&#xA;&lt;li&gt;和docker如何结合&lt;/li&gt;&#xA;&lt;li&gt;实战&lt;/li&gt;&#xA;&lt;li&gt;结合面试需求和实际使用场景&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E5%88%86%E4%BA%AB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E5%88%86%E4%BA%AB/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Markdown的常用语法&#xD;&#xA;    &lt;div id=&#34;markdown的常用语法&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#markdown%e7%9a%84%e5%b8%b8%e7%94%a8%e8%af%ad%e6%b3%95&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;| &lt;a href=&#34;https://markdown.com.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://markdown.com.cn/&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/nginx%E5%92%8Cslb%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/nginx%E5%92%8Cslb%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Nginx和SLB的实际使用&#xD;&#xA;    &lt;div id=&#34;nginx和slb的实际使用&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#nginx%e5%92%8cslb%e7%9a%84%e5%ae%9e%e9%99%85%e4%bd%bf%e7%94%a8&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/react%E6%A6%82%E8%BF%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/react%E6%A6%82%E8%BF%B0/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/spark%E5%92%8Cflink%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%A6%82%E8%BF%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/spark%E5%92%8Cflink%E7%AD%89%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B9%B3%E5%8F%B0%E6%A6%82%E8%BF%B0/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Spark和Flink等大数据平台概述&#xD;&#xA;    &lt;div id=&#34;spark和flink等大数据平台概述&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#spark%e5%92%8cflink%e7%ad%89%e5%a4%a7%e6%95%b0%e6%8d%ae%e5%b9%b3%e5%8f%b0%e6%a6%82%e8%bf%b0&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/spring%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/spring%E5%9F%BA%E7%A1%80%E5%9B%9E%E9%A1%BE/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/vibecoding%E5%B7%A5%E5%85%B7%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/vibecoding%E5%B7%A5%E5%85%B7%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;AI coding tools&#xD;&#xA;    &lt;div id=&#34;ai-coding-tools&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#ai-coding-tools&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/windows%E6%9C%AC%E5%9C%B0%E9%85%8D%E7%BD%AEgithubssh%E7%A7%98%E9%92%A5/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;windows本地配置Github SSH 2017-01-10&#xD;&#xA;    &lt;div id=&#34;windows本地配置github-ssh-2017-01-10&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#windows%e6%9c%ac%e5%9c%b0%e9%85%8d%e7%bd%aegithub-ssh-2017-01-10&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;配置 SSH 密钥是一个“一劳永逸”的操作。配置完成后，你与 GitHub 之间的通信将通过 22 端口建立加密隧道，不再需要输入账号密码或 Token。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/zookeepereurekaconsul-nacos%E5%AF%B9%E6%AF%94/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/zookeepereurekaconsul-nacos%E5%AF%B9%E6%AF%94/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;ZooKeeper、Eureka、Consul 、Nacos对比&#xD;&#xA;    &lt;div id=&#34;zookeepereurekaconsul-nacos对比&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#zookeepereurekaconsul-nacos%e5%af%b9%e6%af%94&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;nacos3.x 新特性 MCP和Agent支持&lt;/li&gt;&#xA;&lt;li&gt;nacos的作用&lt;/li&gt;&#xA;&lt;li&gt;nacos实际使用时配置集群吗&lt;/li&gt;&#xA;&lt;li&gt;热更新？&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;A. 高可用性（High Availability）&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Nacos 集群节点之间通过 Raft (CP模式) 或 Distro (AP模式) 协议同步数据。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;坏掉一台没事：如果有 3 台机器，挂掉 1 台，集群依然能正常提供服务。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;脑裂防护：集群能够确保数据的一致性，防止不同微服务读到不同的配置。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B. 读写性能伸缩&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;微服务数量多（如超过 50 个实例）时，单机 Nacos 的连接压力会非常大。集群可以将心跳检测、配置拉取的压力分散到不同节点。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;C. 真正的负载均衡&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;生产环境通常会在 Nacos 集群前挂一个 SLB（负载均衡器，如 Nginx 或 阿里云 SLB）。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;域名访问：微服务连接 nacos.yourcompany.com。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;平滑升级：你可以一台台重启 Nacos 节点进行版本升级，而业务侧完全无感。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;在实际开发和生产中，是否配置集群取决于你的使用场景。一句话总结：本地开发用单机，生产环境必集群。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;以下是针对不同环境的配置建议和原因分析：&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;1. 什么时候不需要集群？（Standalone 模式）&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;如果你处于以下场景，单机模式完全足够：&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;个人学习/本地开发：在自己的电脑上运行 Docker 容器。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;小微项目测试：项目对高可用要求极低，挂掉 5 分钟不影响大局。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;资源极度受限：内存不足 2G，无法同时运行多个 Java 进程。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;缺点：存在“单点故障”。如果运行 Nacos 的容器或服务器挂了，你的所有微服务将无法发现彼此，且无法读取配置。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;2. 为什么生产环境“必配”集群？（Cluster 模式）&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;在正式的生产环境中，配置 Nacos 集群（通常是 3 个及以上节点）是行业标准，主要基于以下三个核心理由：&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;A. 高可用性（High Availability）&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Nacos 集群节点之间通过 Raft (CP模式) 或 Distro (AP模式) 协议同步数据。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;坏掉一台没事：如果有 3 台机器，挂掉 1 台，集群依然能正常提供服务。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;脑裂防护：集群能够确保数据的一致性，防止不同微服务读到不同的配置。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;B. 读写性能伸缩&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;微服务数量多（如超过 50 个实例）时，单机 Nacos 的连接压力会非常大。集群可以将心跳检测、配置拉取的压力分散到不同节点。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;C. 真正的负载均衡&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;生产环境通常会在 Nacos 集群前挂一个 SLB（负载均衡器，如 Nginx 或 阿里云 SLB）。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;域名访问：微服务连接 nacos.yourcompany.com。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;平滑升级：你可以一台台重启 Nacos 节点进行版本升级，而业务侧完全无感。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;3. Nacos 3.x 集群配置的关键变化&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;如果你使用的是 Nacos 3.1.1，集群配置有几个新要点：&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;节点数量：必须是 奇数（3, 5, 7...），因为 Raft 协议需要“过半数”选主。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;端口要求：除了 8848，必须同时开放 9848 和 9849（gRPC 端口），否则集群节点之间无法通信。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;共享数据库：集群模式下严禁使用嵌入式数据库 Derby，必须配置所有节点连接同一个 MySQL 实例（通常也是高可用的 MySQL）。&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;鉴权密钥一致性：所有节点的 NACOS_AUTH_TOKEN_SECRET_KEY 必须完全相同，否则 Token 无法跨节点校验。&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;p&gt;集群如何配置&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E4%BA%91%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E6%A2%B3%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E4%BA%91%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E6%A2%B3%E7%90%86/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;云平台相关技术梳理&#xD;&#xA;    &lt;div id=&#34;云平台相关技术梳理&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%91%e5%b9%b3%e5%8f%b0%e7%9b%b8%e5%85%b3%e6%8a%80%e6%9c%af%e6%a2%b3%e7%90%86&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AWS Azure 阿里云 GCP&lt;/li&gt;&#xA;&lt;li&gt;云上架构有认识&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E5%88%86%E5%B8%83%E5%BC%8F%E7%BC%93%E5%AD%98/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;分布式缓存&#xD;&#xA;    &lt;div id=&#34;分布式缓存&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e5%88%86%e5%b8%83%e5%bc%8f%e7%bc%93%e5%ad%98&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E5%AD%A6%E4%B9%A0erp%E4%BB%A5%E5%8F%8Acrm%E4%BB%A5%E5%8F%8Asaas%E7%AD%89%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E5%AD%A6%E4%B9%A0erp%E4%BB%A5%E5%8F%8Acrm%E4%BB%A5%E5%8F%8Asaas%E7%AD%89%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;ERP CRM SAAS 等平台架构分析&#xD;&#xA;    &lt;div id=&#34;erp-crm-saas-等平台架构分析&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#erp-crm-saas-%e7%ad%89%e5%b9%b3%e5%8f%b0%e6%9e%b6%e6%9e%84%e5%88%86%e6%9e%90&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E6%9C%AC%E5%9C%B0clone%E6%93%8D%E4%BD%9Cgithub%E8%B6%85%E6%97%B6%E6%80%8E%E4%B9%88%E5%8A%9E/</guid>
       <description>&lt;p&gt;本地clone操作Github超时怎么办&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;windows clone github项目 返回 Failed to connect to github.com port 443 after 21065 ms: Timed out。 给我提供排查思路&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;检查网络通信是否征程 (基础诊断)&#xA;首先确认是 Git 程序的问题，还是你的网络根本无法触达 GitHub。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;打开 PowerShell 或 CMD，输入： ping github.com&#xA;结果分析：&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</link>
+      <link>http://localhost:1313/technology/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%912018-02-15/</guid>
-      <description>&lt;p&gt;现在的我有些疲惫&#xA;凝视&#xA;凋零和枯萎&#xA;沉思后&#xA;忍不住的悔恨&lt;/p&gt;&#xA;&lt;p&gt;萦绕在脑海里的&#xA;不仅仅是憧憬向往&#xA;更多的&#xA;还有憧憬后的失望&#xA;探索后的迷茫&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</link>
+      <link>http://localhost:1313/technology/%E7%94%B5%E5%95%86%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE%E9%9A%BE%E7%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0--2018-09-15/</guid>
-      <description>&lt;p&gt;多看书多看展（长期）&#xA;舞蹈（恰恰，尊巴，伦巴）气质 乐器（长期）&lt;/p&gt;&#xA;&lt;p&gt;妆容 衣服&lt;/p&gt;</description>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E7%94%B5%E5%95%86%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE%E9%9A%BE%E7%82%B9/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;电商相关技术点&#xD;&#xA;    &lt;div id=&#34;电商相关技术点&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e7%94%b5%e5%95%86%e7%9b%b8%e5%85%b3%e6%8a%80%e6%9c%af%e7%82%b9&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;电商项目的介绍&#xA;&lt;ul&gt;&#xA;&lt;li&gt;库存扣减&lt;/li&gt;&#xA;&lt;li&gt;秒杀&lt;/li&gt;&#xA;&lt;li&gt;支付&lt;/li&gt;&#xA;&lt;li&gt;电商其他&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E7%B2%BE%E9%80%9Amysql%E5%AE%9E%E6%88%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E7%B2%BE%E9%80%9Amysql%E5%AE%9E%E6%88%98/</guid>
+      <description>&lt;p&gt;#MySQL实战&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;基础的MySQL内容&lt;/li&gt;&#xA;&lt;li&gt;面试题中的分库分表&lt;/li&gt;&#xA;&lt;li&gt;MySQL底层&lt;/li&gt;&#xA;&lt;li&gt;Binlog？&lt;/li&gt;&#xA;&lt;li&gt;锁？&lt;/li&gt;&#xA;&lt;li&gt;Canal 数据同步中间件 大项目&lt;/li&gt;&#xA;&lt;li&gt;小项目 用事物钩子➕mybatis 拦截器➕消息队列就可以做&lt;/li&gt;&#xA;&lt;li&gt;cdc就是数据同步中间件的简称&lt;/li&gt;&#xA;&lt;li&gt;canal + mq，canal订阅数据库binlog，然后它把数据发到mq 数据同步，多个库的数据同步到聚合库，方便数据查询&lt;/li&gt;&#xA;&lt;li&gt;在发票管理里 实际有两个项目的数据不同步&lt;/li&gt;&#xA;&lt;li&gt;并发没那么大，如果真有这种严格的redis和mysql一致性需求，加锁就行&lt;/li&gt;&#xA;&lt;li&gt;用canal 监听数据变化，公司有很多报表相关通过这个来做的&lt;/li&gt;&#xA;&lt;li&gt;可以写啊，我们公司用的canal，kafka做的mysql到es的数据同步&lt;/li&gt;&#xA;&lt;li&gt;可以从主从架构来理解，mysql作为主机，canal模拟成mysql的从机，mysql数据变化时，会基于binlog日志同步给从机，canal就接到mysql数据了，再进行转发给es&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E7%B2%BE%E9%80%9Aredis%E5%AE%9E%E6%88%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E7%B2%BE%E9%80%9Aredis%E5%AE%9E%E6%88%98/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Redis&#xD;&#xA;    &lt;div id=&#34;redis&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#redis&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E9%9D%A2%E8%AF%95%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;背下八股，&#xA;比如 线程池、&#xA;spring机制、&#xA;设计模式、&#xA;mysql 索引、调优，&#xA;redis 缓存击穿、穿透、分布式锁、数据一致性，&#xA;mq 的消息可靠性保证之类的，&#xA;然后最好都能把八股知识点和项目场景结合起来，&#xA;最后自我介绍的时候引导面试官去问你擅长的方面，比如说自己有慢 sql 调优经验、项目上有使用过消息中间件的经验之类的&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/technology/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E6%A2%B3%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Tomato live)</author>
+      <guid>http://localhost:1313/technology/%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E6%A2%B3%E7%90%86/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;项目架构梳理&#xD;&#xA;    &lt;div id=&#34;项目架构梳理&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#%e9%a1%b9%e7%9b%ae%e6%9e%b6%e6%9e%84%e6%a2%b3%e7%90%86&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;分布式架构的设计&lt;/p&gt;</description>
       
     </item>
     

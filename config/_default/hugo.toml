@@ -3,12 +3,14 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = " https://tomato-live.github.io/"
+baseURL = "https://tomato-live.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 title = "Tomato Blog"
+defaultMarkdownHandler = 'goldmark'
+
 
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
