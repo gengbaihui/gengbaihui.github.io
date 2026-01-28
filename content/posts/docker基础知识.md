@@ -45,7 +45,8 @@
         详细查看卷信息
         docker volume inspect mydata
    ```
-2. 
+2.  绑定挂载（Bind Mounts）
+3.  临时文件系统（tmpfs mount）
 
 #### 数据卷
 
