@@ -15,8 +15,8 @@
 
   
   
-    <title> &middot; Blowfish</title>
-    <meta name="title" content=" &middot; Blowfish">
+    <title> &middot; </title>
+    <meta name="title" content=" &middot; ">
   
 
   
@@ -51,17 +51,14 @@
 
   
   <meta property="og:url" content="http://localhost:1313/technology/dubbo%E5%92%8Copenfeign/">
-  <meta property="og:site_name" content="Blowfish">
-  <meta property="og:title" content="Blowfish">
-  <meta property="og:description" content="A powerful, lightweight theme for Hugo.">
+  <meta property="og:description" content="Dubbo和Openfeign#一、Dubbo简介#Dubbo是最有名的RPC服务调用框架，他是阿里开源的一个SOA服务治理框架，功能较为完善，支持多种传输和序列化方案。Dubbo最常用的应用就是远程调用。">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="technology">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Blowfish">
-  <meta name="twitter:description" content="A powerful, lightweight theme for Hugo.">
+  <meta name="twitter:description" content="Dubbo和Openfeign#一、Dubbo简介#Dubbo是最有名的RPC服务调用框架，他是阿里开源的一个SOA服务治理框架，功能较为完善，支持多种传输和序列化方案。Dubbo最常用的应用就是远程调用。">
 
   
   
@@ -229,7 +226,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "1536"
   }]
   </script>
 
@@ -290,12 +287,12 @@
     
       <div>
         <a href="/" class="flex">
-          <span class="sr-only">Blowfish</span>
+          <span class="sr-only"></span>
           
             <img
-              src="/img/blowfish_logo_transparent.png"
-              width="1000"
-              height="1000"
+              src="/img/tomato-copy.png"
+              width="100"
+              height="100"
               class="logo max-h-20 max-w-20 object-scale-down object-left nozoom"
               alt="">
           
@@ -305,7 +302,7 @@
   
   
     <a href="/" class="text-base font-medium truncate min-w-0 shrink">
-      Blowfish
+      
     </a>
   
   <div class="flex items-center ms-auto">
@@ -633,7 +630,11 @@
   
 
   
+    
+  
 
+  
+    
   
 
   
@@ -650,7 +651,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="0001-01-01T00:00:00&#43;00:00">1 January 0001</time>
+      <time datetime="0001-01-01T00:00:00&#43;00:00">1 January 0001</time><span class="px-2 text-primary-500">&middot;</span><span>1536 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">4 mins</span>
     
 
     
@@ -776,6 +777,138 @@
 
         <div class="article-content max-w-prose mb-20">
           
+<h1 class="relative group">Dubbo和Openfeign
+    <div id="dubbo和openfeign" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#dubbo%e5%92%8copenfeign" aria-label="Anchor">#</a>
+    </span>
+    
+</h1>
+<hr>
+
+<h3 class="relative group">一、Dubbo简介
+    <div id="一dubbo简介" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%80dubbo%e7%ae%80%e4%bb%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>Dubbo是最有名的RPC服务调用框架，他是阿里开源的一个SOA服务治理框架，功能较为完善，支持多种传输和序列化方案。Dubbo最常用的应用就是远程调用。</p>
+<p>SOA（Service-Oriented Architecture，面向服务架构）是一种强调服务重用和集成的架构模式。其核心思想是将应用拆分为多个松耦合的服务（Service），每个服务提供特定的业务能力，并通过标准化协议（如 SOAP、REST、消息队列等）进行通信。</p>
+<p>官网：https://dubbo.apache.org/en/index.html</p>
+
+<h3 class="relative group">二、什么是RPC
+    <div id="二什么是rpc" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%ba%8c%e4%bb%80%e4%b9%88%e6%98%afrpc" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>RPC（Remote Procedure Call，远程过程调用）是一种计算机通信技术与编程范式，核心是让程序能像调用本地函数 / 方法一样，调用远程地址空间（如另一台服务器）的函数 / 方法，无需关注底层网络通信细节。</p>
+
+<h4 class="relative group">2.1 RPC核心要点
+    <div id="21-rpc核心要点" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#21-rpc%e6%a0%b8%e5%bf%83%e8%a6%81%e7%82%b9" aria-label="Anchor">#</a>
+    </span>
+    
+</h4>
+<ul>
+<li>透明性：屏蔽网络传输（如 TCP/UDP）、数据序列化 / 反序列化、服务寻址等底层细节，调用方感知不到 “远程” 特性。</li>
+<li>客户机 - 服务器模式：请求方为客户端，提供服务方为服务器，通过请求 - 响应模式完成交互。</li>
+<li>跨进程 / 跨机器：适用于分布式系统，解决不同进程、不同主机间的通信问题，无需共享内存。</li>
+<li>规范与实现分离：RPC 是一套通信规范，有多种框架实现，如 Dubbo、gRPC、Thrift 等。</li>
+</ul>
+
+<h4 class="relative group">2.2 细节
+    <div id="22-细节" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#22-%e7%bb%86%e8%8a%82" aria-label="Anchor">#</a>
+    </span>
+    
+</h4>
+<pre><code>- 序列化 / 反序列化	将对象转为字节流传输，接收端还原，常用协议有 Protobuf、JSON、Hessian 等
+- 服务发现	客户端获取服务端地址（如 Nacos、Eureka），支持集群部署与负载均衡
+- 通信协议	底层传输协议，如 TCP（可靠）、UDP（高效），部分框架自定义协议（如 Dubbo 协议）
+- 负载均衡	客户端选择最优服务端节点，提升系统可用性与性能
+- 容错机制	处理网络超时、服务不可用等问题，如超时重试、熔断、降级
+</code></pre>
+
+<h4 class="relative group">2.3 技术选型
+    <div id="23-技术选型" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#23-%e6%8a%80%e6%9c%af%e9%80%89%e5%9e%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h4>
+<pre><code>- RPC 分布式系统的内部调用 HTTP 对外API    
+- 不同框架支持的语言和用的协议也都不同，序列化的方式也不同
+- 性能上 RPC框架用二进制序列化的方式可以传输更高效
+</code></pre>
+
+<h4 class="relative group">2.4 不同框架序列化的方式
+    <div id="24-不同框架序列化的方式" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#24-%e4%b8%8d%e5%90%8c%e6%a1%86%e6%9e%b6%e5%ba%8f%e5%88%97%e5%8c%96%e7%9a%84%e6%96%b9%e5%bc%8f" aria-label="Anchor">#</a>
+    </span>
+    
+</h4>
+<pre><code>- Protobuf
+- JSON
+- Thrift 二进制
+- Hessian2
+</code></pre>
+<p>┌──────────────────────── 业务层 ───────────────────────┐
+│  本地方法调用  │  RPC远程调用（Dubbo/gRPC/Thrift）   │
+├─────────────────────────────────────────────────────┤
+│  RPC框架封装层 （含序列化、服务发现、负载均衡等）    │
+├─────────────────── 应用层协议 ───────────────────────┤
+│  自定义RPC协议（Dubbo协议） │ HTTP/2 │ HTTP/1.1     │
+├─────────────────── 传输层协议 ───────────────────────┤
+│                        TCP                          │
+├─────────────────── 网络层/数据链路层/物理层 ──────────┤
+│                        IP/以太网/光纤等              │</p>
+
+<h4 class="relative group">2.5 核心层级逻辑说明
+    <div id="25-核心层级逻辑说明" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#25-%e6%a0%b8%e5%bf%83%e5%b1%82%e7%ba%a7%e9%80%bb%e8%be%91%e8%af%b4%e6%98%8e" aria-label="Anchor">#</a>
+    </span>
+    
+</h4>
+<ul>
+<li>RPC 是「应用层的调用范式」：落地在业务层 + 专属封装层，不属于 TCP/HTTP 这类标准化的网络协议层级，只是基于下层协议做封装实现。</li>
+<li>底层必须依赖标准化网络协议：所有 RPC 框架最终都要基于TCP（绝大多数）做数据传输，部分框架（如 gRPC）会在 TCP 之上再封装一层HTTP/2，Dubbo 则直接在 TCP 上封装自定义的Dubbo 协议。</li>
+<li>框架是 RPC 范式的具体实现：Dubbo、gRPC、Thrift 不是协议，是实现了 RPC 范式的框架，它们会选择 / 自定义下层协议，同时封装序列化、服务治理等 RPC 必备能力。</li>
+<li>简单记：RPC 是 “调用逻辑”，协议是 “传输规则”，框架是 “把逻辑落地的工具”，工具必须基于规则才能跑通。</li>
+</ul>
+
+<h3 class="relative group">三、Openfeign简介
+    <div id="三openfeign简介" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%89openfeign%e7%ae%80%e4%bb%8b" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+
           
           
           

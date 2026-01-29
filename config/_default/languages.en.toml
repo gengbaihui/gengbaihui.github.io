@@ -1,14 +1,14 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = ""
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/tomato-copy.png"
   description = "A powerful, lightweight theme for Hugo."
 
 [params.author]

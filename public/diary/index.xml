@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diaries on Blowfish</title>
+    <title>Diaries on </title>
     <link>http://localhost:1313/diary/</link>
-    <description>Recent content in Diaries on Blowfish</description>
+    <description>Recent content in Diaries on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (Tomato live)</managingEditor>
